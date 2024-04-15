@@ -1,6 +1,4 @@
-Sure, here's a simple README description for a phone store:
 
-```
 # Phone Store
 
 Welcome to our Phone Store repository!
