@@ -27,4 +27,4 @@ We'd love to hear your feedback on our Phone Store project! If you have any sugg
 Happy shopping!
 ```
 
-This README provides a brief overview of the project, its features, how to get started, how to contribute, and encourages feedback from users and contributors.# My Projects.github.io
+This README provides a brief overview of the project, its features, how to get started, how to contribute, and encourages feedback from users and contributors.# phone-store.github.io
